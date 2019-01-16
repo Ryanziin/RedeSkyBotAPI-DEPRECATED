@@ -22,7 +22,7 @@ public class BotManager {
     
     public BotManager(){
         try {
-            this.iDiscordClient = createClient("NTIxNDc2MTc0MTk1NTg5MTIw.Du8_KA.jaEW3IGxRAkIZOBekRFHSpVLQTM");
+            this.iDiscordClient = createClient("NTM0OTQwNTAxMTI4NzczNjUy.DyA6vg.Lrtp6rpwwdScg0j3B2u7IFHIm6w");
             System.out.println("[RedeSkyBotAPI] Bot inicializado!");
             registerCommands(iDiscordClient);
             
